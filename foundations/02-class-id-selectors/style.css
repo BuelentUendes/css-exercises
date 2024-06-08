@@ -1,0 +1,19 @@
+#second_id {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth_id {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
+
+.odd_number {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
